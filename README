@@ -1,0 +1,5 @@
+just a little script to start stop, upgrade instances on aws.
+
+install aws cli 
+run aws configure
+./resize
